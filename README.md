@@ -1,5 +1,5 @@
 
-# GO AROUND
+# LONG WAY AROUND 
 
 
 ## Geolocational map like program designed specifically to find a path from start to destination
@@ -28,10 +28,7 @@ For Software:
 - Three.js, Tailwind CSS
 - Vite, npm, Node.js, PostCSS
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
@@ -61,27 +58,7 @@ Either double click start-aeroroute.bat or launch-aeroroute.vbs OR run  npm run 
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![terminal](https://drive.google.com/file/d/11UBovlfI_umkEkFySDNq1fa3BqF3vV8X/view?usp=drive_link)

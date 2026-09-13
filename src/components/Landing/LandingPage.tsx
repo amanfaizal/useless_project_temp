@@ -8,7 +8,7 @@ import { PresetRoute } from '../../types';
 
 interface LandingPageProps {
   onStartNavigation: () => void;
-  onSelectPreset: (preset: PresetRoute) => void;
+  onSelectPreset?: (preset: PresetRoute) => void;
 }
 
 export const LandingPage: React.FC<LandingPageProps> = ({

@@ -192,6 +192,7 @@ export const App: React.FC = () => {
     return (
       <LandingPage
         onStartNavigation={() => setViewMode('navigator')}
+        onSelectPreset={handleSelectPreset}
       />
     );
   }
